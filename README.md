@@ -73,7 +73,7 @@ This repository is provided for educational purposes. Please respect Purdue Univ
 1. **CoolProp Documentation:** http://www.coolprop.org/
 2. **Course Materials:** 
     1. **Textbook:** "Fundamentals of Engineering Thermodynamics", M.J. Moran, H.N. Shapiro, D.N. Boettner, M.B. Bailey, Ver 7 or higher
-    2. 
+    2. Syllabus to be provided
 
 ---
 
