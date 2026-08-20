@@ -1,5 +1,5 @@
-from CoolProp.CoolProp import PropsSI
 import numpy as np
+from CoolProp.CoolProp import PropsSI
 
 Tn2 = 260
 To2 = 300

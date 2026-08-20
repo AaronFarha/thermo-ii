@@ -19,8 +19,8 @@ Assumptions:
 - sat. vapor enters compressor, sat. liq. exits condenser
 """
 
-from CoolProp.CoolProp import PropsSI
 import numpy as np
+from CoolProp.CoolProp import PropsSI
 
 # Input Data
 R = 'R410a'
