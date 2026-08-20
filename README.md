@@ -62,7 +62,7 @@ jupyter notebook notebooks/
 
 ## Disclaimer
 
-These examples are educational resources intended to supplement coursework. Always verify solutions independently and consult official course materials and your instructor for definitive information.
+These examples are educational resources intended to supplement coursework. 
 
 ## License
 
