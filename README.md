@@ -10,13 +10,15 @@ ME300 builds upon fundamental thermodynamics principles to explore more advanced
 
 This repository includes Python examples for key thermodynamics topics:
 
-- **Thermodynamic Properties**: Calculating properties of pure substances and mixtures using equations of state and property tables
-- **Power Cycles**: Analysis of Rankine, Brayton, and combined cycles for power generation
-- **Refrigeration and Heat Pump Cycles**: Vapor-compression and absorption refrigeration systems
+- **ME 200 Review**: Basic calculations to refresh on first and second law and get familiar with CoolProp property calls
+- **Transient Analysis**: Transient analysis of control volumes: charging and discharging a tank
+- **Exergy Analysis**: Calculations on exergy (availability) of various systems and components
 - **Gas Mixtures**: Ideal and real gas mixture behavior, partial pressures, and psychrometrics
-- **Chemical Reactions**: Combustion processes, enthalpy of formation, and adiabatic flame temperature
-- **Chemical and Phase Equilibrium**: Equilibrium conditions, fugacity, and phase diagrams
-- **Exergy Analysis**: Second-law efficiency and availability analysis
+- **Psychrometrics**: Psychrometric calculations and applications to real HVAC systems
+- **Cycles**: Various advanced power cycles and vapor compression cycles are presented
+- **Real Gases**: Using Equations of State to solve for properties of fluids
+- **Combustion**: Understand and calculate reacting mixtures of hydrocarbon fuels
+- **Chemical Equilibrium**: Apply the equilibrium constant relationship, to relate pressure, temperature, and equilibrium constant for ideal gas mixtures involving individual and multiple reactions.
 
 ## Getting Started
 
