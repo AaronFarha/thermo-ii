@@ -64,6 +64,7 @@ print(f"dW = {dW:0.3f} [kJ/kg]")
 
 # Calculate total exergy (availability)
 E = dU + dW - T0 * dS
+E = E / 3600000000 # convert to GWh
 
 print("\n================= Total Exergy =================")
-print(f"E = {E:0.3f} [kJ]")
+print(f"E = {E:0.3f} [GWh]")
