@@ -67,7 +67,7 @@ hv2 = PropsSI('H','T',T2 + 273.15,'P',Pv,'Water') # [J/kg]
 
 # solving for Q_heat after energy balance
 Q_heat = ma_dot * ((ha2 - ha1) + w * (hv2 - hv1)) / 1000 # [kJ/min]
-print(f"Q_heat = {Q_heat:0.2f} [kJ/min]")
+print(f"Q_heat = {Q_heat:0.2f} [kJ / min]")
 
 # ================= Solution to part b) =================
 print("\n================= Solution to part b) =================")
